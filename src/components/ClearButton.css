@@ -8,5 +8,6 @@
     background-color: #fe9241;
     flex: 1 1;
     color: #ffffff;
-    outline: 1px solid #888888;
+    border-radius: 25px;
+    margin: 5px;
 }

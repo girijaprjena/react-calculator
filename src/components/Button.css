@@ -6,9 +6,10 @@
     font-size: 1.4em;
     font-weight: lighter;
     background-color: #e0e1e6;
-    color: #888888;
+    color: #000000;
     flex: 1;
-    outline: 1px solid #888888;
+    margin: 5px;
+    border-radius: 25px;
 }
 
 .operator {
