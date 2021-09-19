@@ -13,9 +13,9 @@
     cursor: pointer;
 }
 
-.clear-btn:hover {
+/* .clear-btn:hover {
     background-color: #f27518;
-  }
+  } */
 
 .clear-btn:active {
     background-color: #f27518;

@@ -13,14 +13,14 @@
     cursor: pointer;
 }
 
-.button-wrapper:hover {
+/* .button-wrapper:hover {
     background-color: #f27518;
-  }
+  } */
 
 .button-wrapper:active {
     background-color: #f27518;
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
+    box-shadow: 0 5px #f27518;
+    transform: translateY(2px);
   }
 
 .operator {
