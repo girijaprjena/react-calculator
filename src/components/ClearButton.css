@@ -10,4 +10,15 @@
     color: #ffffff;
     border-radius: 25px;
     margin: 5px;
+    cursor: pointer;
 }
+
+.clear-btn:hover {
+    background-color: #f27518;
+  }
+
+.clear-btn:active {
+    background-color: #f27518;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
